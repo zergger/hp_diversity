@@ -1,0 +1,2 @@
+ID	PCG	non-coding	rRNA	tRNA
+test	0	3	2	1
