@@ -4,7 +4,13 @@
 
 ## Introduction
 
-Welcome to this repository! Here, you will find the code and example files related to the analysis of mitochondrial heteroplasmy diversity. These resources can be used to reproduce the analyses presented in our forthcoming research article, which is currently under review.
+Welcome to this repository! Here, you will find the code and example files related to the analysis of mitochondrial heteroplasmy diversity. These resources can be used to replicate the analyses presented in our recently published research article.
+
+If you are using this script, please cite [this publication](https://onlinelibrary.wiley.com/doi/abs/10.1111/1755-0998.13874):
+
+```
+Liu, K., Xie, N., & Wang, Y. (2023). Quantifying mitochondrial heteroplasmy diversity: A computational approach. Mol Ecol Resour. doi:10.1111/1755-0998.13874.
+```
 
 ## File Structure
 
