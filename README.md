@@ -18,6 +18,7 @@ The file structure of this repository is as follows:
 
 - `data/`: Folder containing example data used for demonstrating mitochondrial heteroplasmy.
 - `scripts/`: Contains code scripts used for analyzing and processing the mitochondrial heteroplasmy data.
+- `pkg/`: Folder for the Python package.
 
 ## Contribution and Discussion
 
